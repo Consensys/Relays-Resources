@@ -34,18 +34,18 @@ Generally, the reasons fall into three buckets:
 
 Take some time to answer that question for yourself. What are you looking to get out of this Hackathon? Once you know that, you can find others via Discord or the GC Team Channel to find likeminded people.
 
-## What Should I Know Before I Start a Relays
+## What Should You Know Before Starting...
 
-It's not just about code, it's about research, team-fit, product, market, etc. But ultimately, it's about your product's *traction* and *potential.*
+A Relay hackathon is a little different than a regular hackathon. On top of being longer, and distributed, the focus of the projects themselves are different. It's not just about code in a Relay, it's about user research, team-fit, product, market, etc. But ultimately, all of those things are boiled down to two things: *traction* and *potential.*
 
 What do you need to build in order to validate the traction and potential of an idea? That's up to each individual team. We provide an example judge's scorecard though, so you can get an idea of how we ask the judges to assess the Relay entries.
 
 ## Examples of Winning Projects
-* [Enable](https://github.com/katiejohnson/Labs_Relay/tree/master/double-opt-in-credit/enable) - First Place & Best in Show Ethereal Relay('19)
-* [Invest-Y-Gative Journalism](https://github.com/ConsenSys/Beyond-Blockchain-Relay/tree/master/Media/Invest-y-gative-journalism) 1st Place, Media, Beyond Blockchain('19)
-* [Wrapped Coffee Coin](https://github.com/ConsenSys/Beyond-Blockchain-Relay/tree/master/DeFi/wrapped-coffee-coin) - 1st Place, DeFi, Beyond Blockchain('19)
-* [ImmunoBlock](https://github.com/ConsenSys/Beyond-Blockchain-Relay/tree/master/Medical/ImmunoBlock) - 1st Place, Health, Beyond Blockchain('19)
-* [Idle](https://github.com/ConsenSys/Beyond-Blockchain-Relay/tree/master/DeFi/Idle) 2nd Place, DeFi, Beyond Blockchain('19)
+* [Enable](https://github.com/katiejohnson/Labs_Relay/tree/master/double-opt-in-credit/enable) - *First Place & Best in Show Ethereal Relay('19)*
+* [Invest-Y-Gative Journalism](https://github.com/ConsenSys/Beyond-Blockchain-Relay/tree/master/Media/Invest-y-gative-journalism) - *1st Place, Media, Beyond Blockchain('19)*
+* [Wrapped Coffee Coin](https://github.com/ConsenSys/Beyond-Blockchain-Relay/tree/master/DeFi/wrapped-coffee-coin) - *1st Place, DeFi, Beyond Blockchain('19)*
+* [ImmunoBlock](https://github.com/ConsenSys/Beyond-Blockchain-Relay/tree/master/Medical/ImmunoBlock) - *1st Place, Health, Beyond Blockchain('19*)
+* [Idle](https://github.com/ConsenSys/Beyond-Blockchain-Relay/tree/master/DeFi/Idle) *2nd Place, DeFi, Beyond Blockchain('19)*
 
 ### Further Reading/Watching/Listen
 * [Iterative Product Development and User Traction/Adoption with Austin Griffith](http://idle.finance)
