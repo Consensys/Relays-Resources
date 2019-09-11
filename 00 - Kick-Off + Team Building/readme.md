@@ -14,4 +14,4 @@ You are done with this section when you have...
 
 ## Explainers & How-Tos
 * [Team Self-Organization](https://www.youtube.com/watch?v=3t4VcD6sZVw)
-* [Why Blockchain?](https://www.youtube.com/watch?v=pMB8wbss7Vg
+* [Why Blockchain?](https://www.youtube.com/watch?v=pMB8wbss7Vg)

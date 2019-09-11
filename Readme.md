@@ -4,8 +4,8 @@ Current Bounties: Media, Open Finance
 
 | BUIDL Stage |  Recommended Timebox | Further Reading  |
 | ---- | :-------------:| :-----:|
-|👉👉👉 **Pre-Kick-Off**| 0.5 Day | [Resources](https://github.com/ConsenSys/Relays-Resources/tree/master/00%20-%20Kick-Off%20%2B%20Team%20Building) |
-| Team-Formation & Kick-Off  | .5 Days |  [Resources](https://github.com/ConsenSys/Relays-Resources/tree/master/01%20-%20Research%20%26%20Discovery) |
+|👉👉👉 **Pre-Kick-Off**| ~5 Days | [Resources](https://github.com/ConsenSys/Relays-Resources/tree/master/00%20-%20Kick-Off%20%2B%20Team%20Building) |
+| Team-Formation & Kick-Off  | 0.5 Day |  [Resources](https://github.com/ConsenSys/Relays-Resources/tree/master/01%20-%20Research%20%26%20Discovery) |
 | Research & Discovery | 2-3 Days | [Resources](https://github.com/ConsenSys/Relays-Resources/tree/master/01%20-%20Research%20%26%20Discovery) |
 |Ideate & Prototype | 1-2 Days |  [Resources](https://github.com/ConsenSys/Relays-Resources/tree/master/02%20-%20Ideate%20%2B%20Prototype) |
 | Assess, Validate, & Iterate | 2-3 Days | [Resources](https://github.com/ConsenSys/Relays-Resources/tree/master/03%20-%20Evaluate%20%2B%20Iterate) |
