@@ -21,6 +21,7 @@ The purpose of this start-up kit is make those handful of tasks simple to focus 
  
 All of the resources, templates, and reading we provide are organized across the 15-days Hackathon. This is a relatively simple, hard-to-miss-or-misread roadmap for every team to gauge their progress against. 
 
+
 ## Before we even get started...
 
 ### What's Your Goal for this Hackathon?
@@ -34,19 +35,22 @@ Generally, the reasons fall into three buckets:
 
 Take some time to answer that question for yourself. What are you looking to get out of this Hackathon? Once you know that, you can find others via Discord or the GC Team Channel to find likeminded people.
 
+
 ## What Should You Know Before Starting...
 
 A Relay hackathon is a little different than a regular hackathon. On top of being longer, and distributed, the focus of the projects themselves are different. It's not just about code in a Relay, it's about user research, team-fit, product, market, etc. But ultimately, all of those things are boiled down to two things: *traction* and *potential.*
 
 What do you need to build in order to validate the traction and potential of an idea? That's up to each individual team. We provide an example judge's scorecard though, so you can get an idea of how we ask the judges to assess the Relay entries.
 
+
 ## Examples of Winning Projects
 * [Enable](https://github.com/katiejohnson/Labs_Relay/tree/master/double-opt-in-credit/enable) - *First Place & Best in Show Ethereal Relay('19)*
 * [Invest-Y-Gative Journalism](https://github.com/ConsenSys/Beyond-Blockchain-Relay/tree/master/Media/Invest-y-gative-journalism) - *1st Place, Media, Beyond Blockchain('19)*
 * [Wrapped Coffee Coin](https://github.com/ConsenSys/Beyond-Blockchain-Relay/tree/master/DeFi/wrapped-coffee-coin) - *1st Place, DeFi, Beyond Blockchain('19)*
 * [ImmunoBlock](https://github.com/ConsenSys/Beyond-Blockchain-Relay/tree/master/Medical/ImmunoBlock) - *1st Place, Health, Beyond Blockchain('19*)
-* [Idle](https://github.com/ConsenSys/Beyond-Blockchain-Relay/tree/master/DeFi/Idle) *2nd Place, DeFi, Beyond Blockchain('19)*
+* [Idle](https://github.com/ConsenSys/Beyond-Blockchain-Relay/tree/master/DeFi/Idle) - *2nd Place, DeFi, Beyond Blockchain('19)*
 
-### Further Reading/Watching/Listen
+
+## Further Reading/Watching/Listen
 * [Iterative Product Development and User Traction/Adoption with Austin Griffith](http://idle.finance)
 * [Testing Your Way to an MVP](https://www.youtube.com/watch?v=S-xeSxHuRVg)
