@@ -17,3 +17,6 @@ Some possible outputs of this section are...
 ## Explainers & How-Tos
 * [Cold Calling for Introverts](https://www.youtube.com/watch?v=3tcVZtgUWYk)
 * [How to Score an Advisor When Your Startup Has No Money](https://www.entrepreneur.com/article/229956)
+
+// TODO: Review youtube page, add any missing Resources
+// TODO: Add Generative Research Script to repo

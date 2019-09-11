@@ -18,3 +18,6 @@ or
 * [Startup Pitch Decks](https://www.cirrusinsight.com/blog/startup-pitch-decks) - _Real decks from real startups that raised over $400M_
 * [Build a Winning Pitch Deck](https://basetemplates.com/pitch-deck-guide) -
 *
+
+// TODO: Write short description
+// TODO: Record "Pitching" Video

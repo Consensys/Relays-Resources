@@ -18,3 +18,7 @@ Some possible outputs of this section are...
 * [Cold Calling for Introverts](https://www.youtube.com/watch?v=3tcVZtgUWYk)
 * [Guerrilla Research 101](https://www.youtube.com/watch?v=JDnX_XE_rEo)
 * [How to Score an Advisor When Your Startup Has No Money](https://www.entrepreneur.com/article/229956)
+
+// TODO: Review youtube page, add any missing Resources
+// TODO: Add Generative Research Script to repo
+// TODO: Add Prototyping deck to repo
