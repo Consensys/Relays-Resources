@@ -40,12 +40,12 @@ It's not just about code, it's about research, team-fit, product, market, etc. B
 
 What do you need to build in order to validate the traction and potential of an idea? That's up to each individual team. We provide an example judge's scorecard though, so you can get an idea of how we ask the judges to assess the Relay entries.
 
-## Examples of Previous Winners
-* Idle
-* Enable
-* Invest-Y-Gative Journalism
-* Wrapped Coffee Coin
-* ImmunoBlock
+## Examples of Winning Projects
+* [Enable](https://github.com/katiejohnson/Labs_Relay/tree/master/double-opt-in-credit/enable) - First Place & Best in Show Ethereal Relay('19)
+* [Invest-Y-Gative Journalism](https://github.com/ConsenSys/Beyond-Blockchain-Relay/tree/master/Media/Invest-y-gative-journalism) 1st Place, Media, Beyond Blockchain('19)
+* [Wrapped Coffee Coin](https://github.com/ConsenSys/Beyond-Blockchain-Relay/tree/master/DeFi/wrapped-coffee-coin) - 1st Place, DeFi, Beyond Blockchain('19)
+* [ImmunoBlock](https://github.com/ConsenSys/Beyond-Blockchain-Relay/tree/master/Medical/ImmunoBlock) - 1st Place, Health, Beyond Blockchain('19)
+* [Idle](https://github.com/ConsenSys/Beyond-Blockchain-Relay/tree/master/DeFi/Idle) 2nd Place, DeFi, Beyond Blockchain('19)
 
 ### Further Reading/Watching/Listen
 * [Iterative Product Development and User Traction/Adoption with Austin Griffith](http://idle.finance)
