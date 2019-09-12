@@ -16,5 +16,5 @@ You are done with this section when you have...
 * [Team Self-Organization](https://www.youtube.com/watch?v=3t4VcD6sZVw)
 * [Why Blockchain?](https://www.youtube.com/watch?v=pMB8wbss7Vg)
 
-// TODO: Review youtube page, add any missing Resources
+
 // TODO: Add Roadmap + Task Matrix (WIP) to repo

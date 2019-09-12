@@ -17,10 +17,9 @@ Some possible outputs of this section are...
 * [3Box Web3 Profiles](https://www.youtube.com/watch?v=bjPdRmhQDUA)
 * [Rimble UI Library](https://www.youtube.com/watch?v=5eyt3lV3laY)
 * [MetaMask Web3 Bridge](https://www.youtube.com/watch?v=Ho1KJELQTi8)
+* [Figma](https://www.figma.com)
+
 
 ## Explainers & How-Tos
-* [Cold Calling for Introverts](https://www.youtube.com/watch?v=3tcVZtgUWYk)
-* [Guerrilla Research 101](https://www.youtube.com/watch?v=JDnX_XE_rEo)
-* [How to Score an Advisor When Your Startup Has No Money](https://www.entrepreneur.com/article/229956)
-
-// TODO: Review youtube page, add any missing Resources
+* [Iterative Product Development](https://www.youtube.com/watch?v=AiU5dHxrw-0)
+* [Turning Ideas into Companies](https://www.youtube.com/watch?v=kzI7qwLvjIU)

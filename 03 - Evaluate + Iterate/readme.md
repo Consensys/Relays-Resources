@@ -16,6 +16,7 @@ Some possible outputs of this section are...
 ## Explainers & Interviews
 * [Testing your Way to an MVP](https://www.youtube.com/watch?v=S-xeSxHuRVg)
 * [Guerrilla Research 101](https://www.youtube.com/watch?v=JDnX_XE_rEo)
+* [Turning Ideas into Companies](https://www.youtube.com/watch?v=kzI7qwLvjIU)
+
 
 // TODO: Write summary + outputs
-// TODO: Review youtube page, add any missing Resources
