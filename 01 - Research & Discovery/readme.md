@@ -10,9 +10,10 @@ Some possible outputs of this section are...
 * Artifacts from the interview (notes, videos, etc.)
 * A Competitive Analysis [example + how-to](https://www.bigcommerce.com/blog/how-perform-competitive-analysis/#undefined)
 * An idea, market, or problem your team wants to explore
+* A [journey map](https://www.nngroup.com/articles/journey-mapping-101/) of how people solve the problem currently
 
 ## Frameworks & Tools
-* Generative Research Script
+* [Generative Research Script](https://github.com/ConsenSys/Relays-Resources/tree/master/01%20-%20Research%20%26%20Discovery/Frameworks)
 
 ## Explainers & How-Tos
 * [Cold Calling for Introverts](https://www.youtube.com/watch?v=3tcVZtgUWYk)

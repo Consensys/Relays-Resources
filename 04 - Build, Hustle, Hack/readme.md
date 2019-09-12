@@ -8,7 +8,7 @@ Some possible outputs of this section are...
 
 * A working dApp
 * A revised prototype based on usability tests that accurately simulates the experience of using your product
-* Usability and Prototype Tests
+* Completed [usability and prototype tests](https://uxmastery.com/beginners-guide-to-usability-testing/)
 * Artifacts from the interview (notes, videos, etc.)
 * Interviews and assessments of your project from SME'
 * Advisors joining your team and offering guidance on the project

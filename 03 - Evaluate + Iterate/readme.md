@@ -6,8 +6,8 @@ Words here
 
 Some possible outputs of this section are...
 
-* An amazing idea informed by the real world, and the interviews you did with SMEs and interviewers
-* Bullet point
+* User Feedback Sessions of the prototype as you presented it to potential customers
+*
 
 
 ## Resources
