@@ -13,6 +13,7 @@ Current Bounties: Media, Open Finance
 | Pitch | 2-3 Days |  [Resources](https://github.com/ConsenSys/Relays-Resources/tree/master/05%20-%20Pitch) |
 
 👉👉👉 === *Where we're at in the current Relay*
+*A note about the recommended timebox: Some of these activities should be occurring asynchronously. Some members of the team should be working on one section, where others should be focused on other areas. The timeboxes are meant more as rough guidelines as opposed to hard-and-fast rules. 😊*
 
 ## So what is this exactly?
 **Focus** is the hardest thing to maintain in any creative endeavor. There are literally thousands of things you could be doing for your project at any given moment, but only a handful of activities that actually get you closer to your end-goal.
