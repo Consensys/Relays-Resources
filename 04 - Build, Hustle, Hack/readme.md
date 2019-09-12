@@ -12,6 +12,7 @@ Some possible outputs of this section are...
 * Artifacts from the interview (notes, videos, etc.)
 * Interviews and assessments of your project from SME'
 * Advisors joining your team and offering guidance on the project
+* A [business model canvas](https://leanstack.com/leancanvas)
 
 ## Frameworks & Tools
 * [3Box Web3 Profiles](https://www.youtube.com/watch?v=bjPdRmhQDUA)
