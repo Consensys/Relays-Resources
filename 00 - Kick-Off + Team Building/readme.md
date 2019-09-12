@@ -10,11 +10,8 @@ You are done with this section when you have...
 * An idea, market, or problem your team wants to explore
 
 ## Frameworks
-* Roadmap + Task Matrix (WIP)
+* [Roadmap + Task Matrix (WIP)](https://www.figma.com/file/Wx7Eo4Inzko575xvdDOhaI/Untitled?node-id=1%3A2)
 
 ## Explainers & How-Tos
 * [Team Self-Organization](https://www.youtube.com/watch?v=3t4VcD6sZVw)
 * [Why Blockchain?](https://www.youtube.com/watch?v=pMB8wbss7Vg)
-
-
-// TODO: Add Roadmap + Task Matrix (WIP) to repo
