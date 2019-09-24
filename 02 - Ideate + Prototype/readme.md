@@ -6,7 +6,7 @@ Words
 
 Some possible outputs of this section are...
 
-* Bullet Point 1
+* [A Design Sprint](https://docs.google.com/presentation/d/1iyARwOG6VN7llQm9YG_Wj48XpIy9E7a1W2Ypy2QtcbM/edit?usp=sharing)! It's tough to do remote-ly but doable. We put together 
 * Bullet Point 2
 
 
