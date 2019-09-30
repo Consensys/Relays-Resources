@@ -6,13 +6,11 @@ Current Bounties: Media, Open Finance
 | ---- | :-------------:| :-----:|
 | Pre-Kick-Off | ~5 Days | [Resources](https://github.com/ConsenSys/Relays-Resources/tree/master/00%20-%20Kick-Off%20%2B%20Team%20Building) |
 | Team-Formation & Kick-Off  | 0.5 Day |  [Resources](https://github.com/ConsenSys/Relays-Resources/tree/master/00%20-%20Kick-Off%20%2B%20Team%20Building) |
-| 👉👉👉 **Research & Discovery** | 2-3 Days | [Resources](https://github.com/ConsenSys/Relays-Resources/tree/master/01%20-%20Research%20%26%20Discovery) |
+| Research & Discovery | 2-3 Days | [Resources](https://github.com/ConsenSys/Relays-Resources/tree/master/01%20-%20Research%20%26%20Discovery) |
 |Ideate & Prototype | 1-2 Days |  [Resources](https://github.com/ConsenSys/Relays-Resources/tree/master/02%20-%20Ideate%20%2B%20Prototype) |
 | Assess, Validate, & Iterate | 2-3 Days | [Resources](https://github.com/ConsenSys/Relays-Resources/tree/master/03%20-%20Evaluate%20%2B%20Iterate) |
 | Build, Hustle, Hack | 7+ Days |  [Resources](https://github.com/ConsenSys/Relays-Resources/tree/master/04%20-%20Build) |
 | Pitch | 2-3 Days |  [Resources](https://github.com/ConsenSys/Relays-Resources/tree/master/05%20-%20Pitch) |
-
-👉👉👉 === *Where we're at in the current Relay*
 
 *A note about the recommended timebox: Some of these activities should be occurring asynchronously. Some members of the team should be working on one section, where others should be focused on other areas. The timeboxes are meant more as rough guidelines as opposed to hard-and-fast rules. 😊*
 
